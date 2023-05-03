@@ -19,4 +19,5 @@ This game was developed as a university project for the applied practice course,
 #### Note
 
 This repository is an update and reorganization of the original repository, done with the aim of creating more understandable content.
+</br>
 [![old](https://img.shields.io/badge/Old_Repository-blue?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10/Sarcov-Juego)
