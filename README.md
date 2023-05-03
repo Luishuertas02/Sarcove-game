@@ -14,3 +14,8 @@ This game was developed as a university project for the applied practice course,
 [![Luis](https://img.shields.io/badge/Luis_Sebastian_Huertas_Torres-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Luishuertas02)
 [![Leonardo](https://img.shields.io/badge/CRISTIAN_LEONARDO_OLMOS_OLMOS-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/leonardoohy)
 [![Juan](https://img.shields.io/badge/Juan_David_Ovalle_Ocampo-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Juanelo2000)
+
+#### Note
+
+This repository is an update and reorganization of the original repository, done with the aim of creating more understandable content.
+[![old](https://img.shields.io/badge/Old_Repository-blue?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10/Sarcov-Juego)
