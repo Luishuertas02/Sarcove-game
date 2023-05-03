@@ -9,8 +9,8 @@ This game was developed as a university project for the applied practice course,
 [![Johan](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
 [![Miller](https://img.shields.io/badge/miller_esteban_arevalo_higuera-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Miarevalo3)
 [![Miguel](https://img.shields.io/badge/MIGUEL_ANGEL_GARCIA_PERILLA-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Miguelito-Poli)
-[![Camilo](https://img.shields.io/badge/Camilo_Alexander_Arias_Guerreo-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Guerrero1442)
 </br>
+[![Camilo](https://img.shields.io/badge/Camilo_Alexander_Arias_Guerreo-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Guerrero1442)
 [![Luis](https://img.shields.io/badge/Luis_Sebastian_Huertas_Torres-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Luishuertas02)
 [![Leonardo](https://img.shields.io/badge/CRISTIAN_LEONARDO_OLMOS_OLMOS-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/leonardoohy)
 [![Juan](https://img.shields.io/badge/Juan_David_Ovalle_Ocampo-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Juanelo2000)
