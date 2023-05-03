@@ -6,4 +6,4 @@ This game was developed as a university project for the applied practice course,
 
 ## Members
 
-[![Johan](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=social&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Johan](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
