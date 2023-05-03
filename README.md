@@ -7,3 +7,9 @@ This game was developed as a university project for the applied practice course,
 ## Members
 
 [![Johan](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Miller](https://img.shields.io/badge/miller_esteban_arevalo_higuera-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Miguel](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Camilo](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Luis](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Leonardo](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
+[![Juan](https://img.shields.io/badge/Johan_Santiago_Bernal_Velasquez-green?style=for-the-badge&logo=Github&logoColor=white&labelColor=101010)](https://github.com/Jobernal10)
